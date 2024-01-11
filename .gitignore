@@ -1,0 +1,37 @@
+# Direcotries
+
+bin/
+obj/
+
+logs/
+packages/
+artifacts/
+
+.vs/
+.vscode/
+
+#User specific files
+
+*.user
+*.suo
+
+_ReSharper*/
+.history/
+
+#Files
+
+*.csproj.user
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+#Others
+*.log
+*.mdf
+*.ldf
+*.ndf
+*.tmp
+*.temp
+*TMP
